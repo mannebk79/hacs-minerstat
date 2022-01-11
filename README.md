@@ -4,7 +4,7 @@
 ![Validate](https://github.com/gilsonmandalogo/hacs-minerstat/workflows/Validate/badge.svg)
 [![buy_me_a_coffee_badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/gilson)
 
-A integration with [Minerstart](https://minerstat.com/) to create a sensor from your rig's hashrate.
+A integration with [Minerstat](https://minerstat.com/) to create a sensor from your rig's hashrate.
 
 ## Usage
 `configuration.yaml`:
